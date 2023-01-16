@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Artikel Pertama",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus assumenda iste architecto doloremque quisquam eveniet soluta iure qui debitis illo.",
+      "tags": [
+        "web",
+        "vue",
+        "laravel"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Artikel Kedua",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus assumenda iste architecto doloremque quisquam eveniet soluta iure qui debitis illo.",
+      "tags": [
+        "web",
+        "vue",
+        "nextjs"
+      ]
+    },
+    {
+      "title": "Artikel ketiga",
+      "body": "ini isi artikel ketiga",
+      "tags": [
+        "vue",
+        "firebase"
+      ],
+      "id": 3
+    },
+    {
+      "title": "artikel ke empat",
+      "body": "ini isi artikel keempat",
+      "tags": [
+        "vue",
+        "js"
+      ],
+      "id": 4
+    },
+    {
+      "title": "artikel kelima",
+      "body": "ini isi artikel kelima",
+      "tags": [
+        "vite",
+        "vue"
+      ],
+      "id": 5
+    }
+  ]
+}
